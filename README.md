@@ -27,7 +27,7 @@ Write a Node.js script that:
 Your project folder should look like this:  
 
 ```bash  
-problem-9-json-file-handling/  
+09-json-file-handling-node-problem/  
 ├── data.json          # The JSON file to be read and modified  
 ├── jsonHandler.js     # The script for handling JSON operations  
 ├── README.md          # Documentation for this problem  
