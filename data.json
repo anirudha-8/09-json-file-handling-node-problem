@@ -1,0 +1,11 @@
+{
+	"name": "Rohit",
+	"age": "22",
+	"email": "rohit@gmail.com",
+	"address": {
+		"street": "Sali Galli",
+		"city": "Koganoli",
+		"state": "Karnataka",
+		"country": "India"
+	}
+}
